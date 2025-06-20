@@ -1,1 +1,1 @@
-It's a simple page that calculate the IMC.
+It's a simple page that calculates the IMC.
